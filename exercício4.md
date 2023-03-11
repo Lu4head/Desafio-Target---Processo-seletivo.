@@ -1,0 +1,1 @@
+Ambos estão à mesma distância de Ribeirão Preto = 60,9Km, pois quando se encontraram ambos estarão na mesma posição, portanto a mesma distância do ponto.

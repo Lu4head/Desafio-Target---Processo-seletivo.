@@ -1,0 +1,6 @@
+a) 1,3,5,7,[9] (soma-se 2 ao número anterior)
+b) 2,4,8,16,32,64,[128] (potências de 2)
+c) 0,1,4,9,16,25,36,[49] (0,1,2,3,4,5,6,7... elevado ao quadrado)
+d) 4,16,36,64,[100] (quadrado dos números pares)
+e)1,1,2,3,5,8,[13] (sequência de Fibonacci)
+f)2,10,12,16,17,18,19,[200] (sequencia de números que começam com a letra D)
